@@ -1,3 +1,7 @@
+#LECCIÓN 5 : CONDICIONALES
+
+
+
 """
 Por defecto, las instrucciones en un script de Python se ejecutan secuencialmente de arriba hacia abajo. 
 Si la lógica de procesamiento lo requiere, el flujo secuencial de ejecución puede alterarse de dos maneras:
